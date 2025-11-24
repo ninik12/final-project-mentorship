@@ -48,16 +48,3 @@
     font-style: normal;
     font-display: swap;
 }
-
-@font-face {
-    font-family: 'Poppins-Medium';
-    src: url('../fonts/Poppins-Medium_1.eot');
-    src: url('../fonts/Poppins-Medium_1.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/Poppins-Medium_1.woff2') format('woff2'),
-        url('../fonts/Poppins-Medium_1.woff') format('woff'),
-        url('../fonts/Poppins-Medium_1.ttf') format('truetype'),
-        url('../fonts/Poppins-Medium_1.svg#Poppins-Medium') format('svg');
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
